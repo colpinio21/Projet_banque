@@ -7,7 +7,6 @@ public class CompteEpargne : CompteBancaire {
     }
 
     public override void CalculerFrais() {
-        // Calcul des frais pour le compte épargne
     }
 
     public override string ObtenirPolitiqueBancaire() {

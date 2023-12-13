@@ -7,7 +7,6 @@ public class CompteCourant : CompteBancaire {
     }
 
     public override void CalculerFrais() {
-        // Calcul des frais pour le compte courant
     }
 
     public override string ObtenirPolitiqueBancaire() {
