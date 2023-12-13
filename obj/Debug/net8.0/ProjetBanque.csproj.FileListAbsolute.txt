@@ -1,0 +1,14 @@
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\bin\Debug\net8.0\ProjetBanque.exe
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\bin\Debug\net8.0\ProjetBanque.deps.json
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\bin\Debug\net8.0\ProjetBanque.runtimeconfig.json
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\bin\Debug\net8.0\ProjetBanque.dll
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\bin\Debug\net8.0\ProjetBanque.pdb
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.dll
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\refint\ProjetBanque.dll
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.pdb
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ProjetBanque.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\Simplon\brief c#\ProjetBanque\obj\Debug\net8.0\ref\ProjetBanque.dll
